@@ -1,3 +1,7 @@
+*/Nama : Dwi Adiningsih
+Nim : 13020210021
+Hari/tgl : Sabtu, 11 Maret 2022
+waktu : 8.05
 import java.util.Scanner;
 
 public class Waktu {
